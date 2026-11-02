@@ -1210,3 +1210,14 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+st.markdown("---")
+
+st.markdown(
+    """
+    **Sumber Dataset**
+
+    Dataset: [Solar Power Generation Data - Ani Kannal (Kaggle)](
+    https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
+    )
+    """
+)

@@ -99,3 +99,14 @@ Hasil visualisasi bersifat deskriptif. Hubungan statistik antara Irradiation dan
 ## Tujuan Proyek
 
 Proyek ini dikembangkan sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah Visualisasi Data untuk menerapkan proses pengolahan data, eksplorasi data, analisis, dan visualisasi interaktif menggunakan Python dan Streamlit.
+
+## Sumber Data
+
+Dataset yang digunakan dalam proyek ini berasal dari Kaggle:
+
+- **Judul Dataset:** Solar Power Generation Data
+- **Pembuat:** Ani Kannal
+- **Platform:** Kaggle
+- **Tautan Dataset:** https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
+
+Data telah melalui proses pembersihan, penggabungan, dan transformasi sebelum digunakan dalam analisis serta visualisasi dashboard.
